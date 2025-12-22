@@ -4,4 +4,4 @@ numpy
 Pillow
 scikit-image
 rembg
-onnxruntime-cpu
+onnxruntime

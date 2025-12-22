@@ -19,7 +19,7 @@ A computer-vision based web application that converts raw human portraits into s
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/<your-username>/studio_portrait_app.git
+git clone https://github.com/raghavkhatri413/studio_portrait_app.git
 cd studio_portrait_app
 python3 -m venv venv
 source venv/bin/activate
